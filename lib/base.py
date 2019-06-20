@@ -40,9 +40,11 @@ class AbcTest(metaclass=abc.ABCMeta):
 class BaseTest(AbcTest):
     """测试基类"""
     
+    device = None
+
     def __init__(self, channel, data, timeout):
         self.channel = channel
         self.data = data
         self.timeout = timeout
-        self.device = None
+        
 

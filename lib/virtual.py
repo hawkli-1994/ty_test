@@ -7,7 +7,7 @@ class Virtual(BaseTest):
         return super().__init__(channel, data, timeout)
 
     def read(self):
-        pass
+        return bytes.
 
 
 
