@@ -1,0 +1,9 @@
+__title__ = 'ty_test'
+__description__ = 'Test POBC for Humans.'
+__url__ = ''
+__version__ = '0.1.0'
+__build__ = 0x000000
+__author__ = 'likeran'
+__author_email__ = '969543965@qq.com'
+__license__ = 'Apache 2.0'
+__copyright__ = 'Copyright 2019 likeran'
